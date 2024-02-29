@@ -1,0 +1,25 @@
+.font {
+    font-size: 1.5em;
+}
+.igem {
+    margin: 20px;
+}
+.igemtext {
+    color: green;
+}
+.text {
+    text-align: center;
+    font-weight: bold;
+}
+.cfi {
+    margin: 20px;
+}
+img {
+    border-radius: 50%;
+}
+.bgcolor {
+    background-color: blanchedalmond;
+}
+.sponsers {
+    display: inline;
+}
